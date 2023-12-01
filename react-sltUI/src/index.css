@@ -1,0 +1,100 @@
+*{
+  margin: 10px;
+}
+
+.sltLogo{
+  width: 200px;
+  background-color: white;
+  border-radius: 3px;
+
+}
+
+body{
+  background-image: url('https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30515.jpg?w=740&t=st=1701347180~exp=1701347780~hmac=5aa293624e09b0731544d4fd3a013f8b14424d0b7e130c65a352be5cf5cfa1ee');
+  max-width: auto;
+  max-height: auto;
+}
+
+.top_topic{
+  color: rgb(255, 255, 255);
+}
+
+h5{
+  line-height: 0.3;
+  padding-bottom: 20px;
+}
+
+h4{
+  
+  padding-top: 15px;
+}
+
+h6{
+  
+  color: gray;
+  padding-bottom: 15px;
+  padding-inline-start: 10px;
+  
+}
+
+div.square{
+  background-color: white;
+  padding-inline-start: 10px;
+  border-radius: 4px;
+  max-width: auto;
+  max-height: auto;
+}
+
+#img1{
+  width: 200px;
+  height: 100px;
+}
+
+#img2{
+  width: 200px;
+  height: 100px;
+}
+
+#img3{
+  width: 200px;
+  height: 100px;
+}
+
+#img4{
+  width: 200px;
+  height: 100px;
+}
+
+#img5{
+  width: 200px;
+  height: 100px;
+}
+
+#img6{
+  width: 200px;
+  height: 100px;
+}
+
+#img7{
+  width: 200px;
+  height: 100px;
+}
+
+#img8{
+  width: 200px;
+  height: 100px;
+}
+
+#img9{
+  width: 200px;
+  height: 100px;
+}
+
+#img10{
+  width: 200px;
+  height: 100px;
+}
+
+.image-marquee{
+  padding-top: 250px;
+}
