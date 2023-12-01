@@ -6,7 +6,13 @@ function App() {
     <>
     <div>
       <img src="https://sltds.lk/wp-content/uploads/2021/05/cropped-logo1.png" className="sltLogo"/>
+      <span id="icon-images">
+        <img src="https://cdn-icons-png.flaticon.com/128/665/665209.png" id="fb-icon"/>
+        <img src="https://cdn-icons-png.flaticon.com/128/665/665228.png"id="twitter-icon"/>
+        <img src="https://cdn-icons-png.flaticon.com/128/13147/13147331.png" id="in-icon"/>
+      </span>
     </div>
+
     <h3 className="top_topic">SLT Digital Services</h3>
     <h5 className="top_topic">INTRANET</h5>
     <div className="square">
@@ -25,11 +31,21 @@ function App() {
         <img src="https://img.freepik.com/free-photo/group-five-african-college-students-spending-time-together-campus-university-yard-black-afro-friends-studying-education-theme_627829-6007.jpg?w=996&t=st=1701407453~exp=1701408053~hmac=09849a23fc14caf3d35cc447ed49617633145eaaf604b504e505d07eac1b06f1"id="img8"/>
         <img src="https://img.freepik.com/free-photo/backpacker-standing-sunrise-viewpoint-ja-bo-village-mae-hong-son-province-thailand_335224-1356.jpg?w=996&t=st=1701407519~exp=1701408119~hmac=ad73f22e30a702aaef002964ff71e9db36453d2d10cdc44e1f6b4c44e38d1e1f"id="img9"/>
         <img src="https://img.freepik.com/free-photo/indulgent-chocolate-dessert-with-fresh-fruit-decoration-generative-ai_188544-9688.jpg?w=1060&t=st=1701407579~exp=1701408179~hmac=215ce4b6663fbb0fe6069e42953e5969d50959f59ccd83334dc7653c637dd369"id="img10"/>
-      
-    
       </div>
-      </marquee>
-    
+      </marquee>  
+    <div>
+      <center>
+        <img src="https://cdn-icons-png.flaticon.com/128/2776/2776067.png" id="location-icon"/>
+        <h6 id="address">No: 17 H.K Dharmadasa Mawatha, Colombo 02</h6>
+      </center>  
+    </div>
+    <div>
+      <center>
+        <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" id="mail-icon"/>
+        <h6 id="email"><cite>info@sltds.lk</cite></h6>
+      </center>  
+    </div>
+      
     </>
   )
   

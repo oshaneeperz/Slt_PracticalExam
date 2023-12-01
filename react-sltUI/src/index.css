@@ -96,5 +96,42 @@ div.square{
 }
 
 .image-marquee{
-  padding-top: 250px;
+  padding-top: 100px;
+}
+
+#icon-images{
+  float: right;
+}
+
+#fb-icon{
+  width: 35px;
+}
+
+#twitter-icon{
+  width: 35px;
+}
+
+#in-icon{
+  width: 40px;
+}
+
+#location-icon{
+  width: 22px;
+  display: inline;
+  
+}
+
+#address{
+  color: white;
+  display: inline;
+}
+
+#mail-icon{
+  width: 16px;
+  display: inline;
+}
+
+#email{
+  color: white;
+  display: inline;
 }
